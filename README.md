@@ -1,4 +1,5 @@
 GLOBAL PATH REPLANNING:
+
 ![final](https://github.com/user-attachments/assets/c1688356-a67e-432d-bf88-123f439cbade)
 
 CREATE CANARY WHARF OCCUPANCY MAP USING LIDAR SCANNING
