@@ -1,7 +1,7 @@
-![occupancy_map](https://github.com/user-attachments/assets/e8a9776d-1330-4703-afd1-1aaa4a8e1d14)
-
 GLOBAL PATH REPLANNING:
 ![final](https://github.com/user-attachments/assets/c1688356-a67e-432d-bf88-123f439cbade)
+
+CREATE CANARY WHARF OCCUPANCY MAP USING LIDAR SCANNING
 ![new2](https://github.com/user-attachments/assets/e0c1ffee-3b24-4974-b012-c5d7bf11d966)
 
 CONTROL BARRIER FUNCTION - STATIONARY OBSTACLE:
